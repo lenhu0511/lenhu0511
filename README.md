@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Le Nhu</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 
-- 🌱 I’m currently learning **VueJs**
+- 🌱 I’m currently learning **ReactJs**
 
 - 📫 How to reach me **lenhu0460@gmail.com**
 
